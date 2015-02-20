@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Object-Oriented Programming** <span id="3"></span> 
 *In this unit, you will learn how to design a class, which is an
 expanded concept of a data structure that can hold both data and

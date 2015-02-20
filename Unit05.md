@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Memory Management and Testing** <span id="5"></span> 
 *In this unit, we will work on memory management and debugging methods.
  The unit begins with an introduction on general techniques in C++

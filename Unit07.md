@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's CS107 Final Exam**
     Link: The Saylor Foundation's [CS107 Final

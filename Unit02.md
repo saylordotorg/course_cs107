@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Dealing with Data and Compound Types** <span id="2"></span> 
 *In this unit, we will begin to use variables and constants.  We will
 practice with an array, which is a series of elements of the same type

@@ -1,4 +1,11 @@
-Course Syllabus for "CS107: C++ Programming "
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "CS107: C++ Programming"
 ---------------------------------------------
 
 In the first unit, we will learn the mechanics of editing and compiling

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Useful Examples and C++ Glossary** <span id="6"></span> 
 *In this unit, we will work on coding skills using two useful data
 structures: linked list and binary tree.  The first assessment you will

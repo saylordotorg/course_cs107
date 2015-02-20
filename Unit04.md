@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS107: C++ Programming"
+course_description: "An introduction to the C++ computer programming language, focusing on syntax for primitive types, control structures, vectors, strings, structs, classes, functions, file I/O, exceptions and other programming constructs."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Advanced Concepts** <span id="4"></span> 
 *This unit begins with a review of function and class templates, which
 make programs adaptable.  We will then learn how to manipulate files. 
